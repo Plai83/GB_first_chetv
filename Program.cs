@@ -4,9 +4,9 @@ string[] readArr(){
     System.Console.WriteLine("Введите размер массива: ");
     string? arrLen = Console.ReadLine();
     int count = 0;
-     while (!int.TryParse(arrLen, out int num))
+     while (!int.TryParse(arrLen, out int num) || num <= 0)
      {
-      System.Console.WriteLine("Размер должен быть числовой, введите размер массива: ");
+      System.Console.WriteLine("Размер должен быть числом больше 0, введите размер массива: ");
       arrLen = Console.ReadLine();
      }
     string[] arr = new string[Convert.ToInt32(arrLen)];
