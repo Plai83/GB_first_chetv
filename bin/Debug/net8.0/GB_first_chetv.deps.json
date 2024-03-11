@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GB_first_chetv/1.0.0": {
+        "runtime": {
+          "GB_first_chetv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GB_first_chetv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

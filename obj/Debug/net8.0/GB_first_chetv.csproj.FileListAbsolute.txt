@@ -1,0 +1,14 @@
+C:\Users\Schur\OneDrive\Рабочий стол\GB_first_chetv\bin\Debug\net8.0\GB_first_chetv.exe
+C:\Users\Schur\OneDrive\Рабочий стол\GB_first_chetv\bin\Debug\net8.0\GB_first_chetv.deps.json
+C:\Users\Schur\OneDrive\Рабочий стол\GB_first_chetv\bin\Debug\net8.0\GB_first_chetv.runtimeconfig.json
+C:\Users\Schur\OneDrive\Рабочий стол\GB_first_chetv\bin\Debug\net8.0\GB_first_chetv.dll
+C:\Users\Schur\OneDrive\Рабочий стол\GB_first_chetv\bin\Debug\net8.0\GB_first_chetv.pdb
+C:\Users\Schur\OneDrive\Рабочий стол\GB_first_chetv\obj\Debug\net8.0\GB_first_chetv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Schur\OneDrive\Рабочий стол\GB_first_chetv\obj\Debug\net8.0\GB_first_chetv.AssemblyInfoInputs.cache
+C:\Users\Schur\OneDrive\Рабочий стол\GB_first_chetv\obj\Debug\net8.0\GB_first_chetv.AssemblyInfo.cs
+C:\Users\Schur\OneDrive\Рабочий стол\GB_first_chetv\obj\Debug\net8.0\GB_first_chetv.csproj.CoreCompileInputs.cache
+C:\Users\Schur\OneDrive\Рабочий стол\GB_first_chetv\obj\Debug\net8.0\GB_first_chetv.dll
+C:\Users\Schur\OneDrive\Рабочий стол\GB_first_chetv\obj\Debug\net8.0\refint\GB_first_chetv.dll
+C:\Users\Schur\OneDrive\Рабочий стол\GB_first_chetv\obj\Debug\net8.0\GB_first_chetv.pdb
+C:\Users\Schur\OneDrive\Рабочий стол\GB_first_chetv\obj\Debug\net8.0\GB_first_chetv.genruntimeconfig.cache
+C:\Users\Schur\OneDrive\Рабочий стол\GB_first_chetv\obj\Debug\net8.0\ref\GB_first_chetv.dll
