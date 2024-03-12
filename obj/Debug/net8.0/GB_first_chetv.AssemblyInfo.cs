@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GB_first_chetv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f46ca03721af4f426bc95a6f907c82faac028e47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2c781601a7b18a8eb999b194f7b66ca71efa6f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GB_first_chetv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GB_first_chetv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
