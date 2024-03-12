@@ -31,8 +31,8 @@ string[] createNewArr(string[] arr){
  int i = 0;
  foreach (var t in arr)
  {
-   if (Convert.ToBoolean(rand.Next(3))){   
-      int start = rand.Next(t.Length);      // Вносим элемент в новый массив или нет
+   if (Convert.ToBoolean(rand.Next(3))){   // Вносим элемент в новый массив или нет
+      int start = rand.Next(t.Length);      
       Array.Resize(ref newArr, i + 1);
       newArr[i] = t.Substring(start, Math.Min(3, t.Length - start));
       i ++;
